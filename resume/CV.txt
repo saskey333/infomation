@@ -1,0 +1,19 @@
+I'm Full-Stack developer
+
+😊Thank you for reviewing my profile.
+
+I have over ✨7+✨ years of experience in web developmenet and I made 
+website that my clients fall in love.
+I have strong communication and problem-solving skills, self-awareness, 
+a positive attitude, and a sense of humor and empathy. 
+If you want to keep working, I can work at weekends.
+And I can work alone or with any teams.
+
+summary of skill set:
+✔ React.js(saga,axios), Vue.js
+✔ bootstrap4 & 5,
+✔ Node.js, Express, python
+✔ PHP Framework(Laravel,CI)
+
+languages:
+ Php, Html5, CSS3, TypeScript, Javascript, Python, bootstrap.

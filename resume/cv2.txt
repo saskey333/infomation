@@ -1,0 +1,27 @@
+I am a full-stack web software engineer. I'm a professional who is easy to talk to and easy to work with. Sometimes I make jokes and people say they are funny.
+
+Not only that, but my code is clean, robust, readable, maintainable, and highly tested. Testing is the key point in developing an app that's is going to be larger than a basic ToDo list app.
+
+I'll be happy to provide you with the best solutions tailored specifically to your business needs. It doesn't matter if you're technical or not, I can communicate the features that your business needs on all levels. I constantly improve my technical skills by following the latest news, watching screencasts, attending conferences.
+
+Availability is the key. I'm available to work on any day of the week and if sometimes I'm not, I will be giving you a lot of notifications of that. I have worked with plenty of clients around the globe launching successful projects and have had no problems scheduling a good time that would work for both of us.
+
+My Word:
+
+-Impossible is a word to be found only in the dictionary of fools -I don't trust words, I trust Actions
+
+My Goals:
+
+-Top developer in the world
+
+✔ Front-end
+React / Angular / Vue / Shopify / React Native / Flutter
+✔ Back end
+Node / Django / Spring / .NET / Rust / Ruby on Rails / Laravel
+✔ Database
+MySql / Postgresql / MongoDB / Firebase Firestore / AWS Dynamo
+✔Clouding & CI/CD & Architecture
+Firebase, Google Cloud, AWS, Azure,
+Jira, Jenkis, Docker,
+Stripe, Paypal, Slack App,
+Amplitude, Segment.io,
